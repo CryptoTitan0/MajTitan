@@ -89,7 +89,7 @@ class MajTod:
     def log(self, msg):
         now = datetime.now().isoformat().split("T")[1].split(".")[0]
         print(
-            f"{black}[{now}]{red}-{blue}[{white}Subscribe Here https://youtube.com/@crypto_titan1 {self.p + 1}{blue}]{white} {msg}{reset}"
+            f"{black}[{now}]{green}-{blue}[{red}Subscribe Here https://youtube.com/@crypto_titan1 {self.p + 1}{blue}]{white} {msg}{reset}"
         )
 
     async def ipinfo(self):
