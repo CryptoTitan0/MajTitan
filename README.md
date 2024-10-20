@@ -34,5 +34,5 @@
 
 6. Run/execute the main file
    ```shell
-   python bot.py
+   python MajTitan.py
    ```
