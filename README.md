@@ -17,12 +17,12 @@
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/majtod.git
+   git clone https://github.com/CryptoTitan1/MajTitan
    ```
 
 3. Enter the majtod folder
    ```shell
-   cd majtod
+   cd MajTitan
    ```
 
 4. Install the required libraries
