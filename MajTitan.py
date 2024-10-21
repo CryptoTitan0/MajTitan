@@ -360,7 +360,7 @@ class MajTod:
                     f"{yellow}next time to play swap game : {white}{next_isoformat}"
                 )
             else:
-                coin = random.randint(2900, 3000)
+                coin = random.randint(1500, 3000)
                 swipe_data = {"coins": coin}
                 res = await self.http(
                     swipe_coin_url, self.headers, json.dumps(swipe_data)
